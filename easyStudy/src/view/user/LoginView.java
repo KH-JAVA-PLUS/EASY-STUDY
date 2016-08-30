@@ -1,9 +1,9 @@
-package view.member;
+package view.user;
 
 import java.util.Scanner;
 
 
-public class UpdateView {
+public class LoginView {
 	
 	public void displayMenu() {
 

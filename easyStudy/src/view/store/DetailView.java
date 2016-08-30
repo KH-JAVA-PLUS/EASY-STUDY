@@ -1,9 +1,10 @@
-package view;
+package view.store;
+
 
 import java.util.Scanner;
 
 
-public class JoinView {
+public class DetailView {
 	
 	public void displayMenu() {
 

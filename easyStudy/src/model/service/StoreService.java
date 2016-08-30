@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Set;
 
-public class PlaceService {
+public class StoreService {
 
 	//회원추가 
 	public void addMember(HashMap map) {

@@ -1,10 +1,9 @@
-package view.Place;
-
+package view.user;
 
 import java.util.Scanner;
 
 
-public class DetailView {
+public class JoinView {
 	
 	public void displayMenu() {
 

@@ -1,4 +1,4 @@
-package view.Place;
+package view.store;
 
 public class MainView {
 	

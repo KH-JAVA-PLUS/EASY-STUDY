@@ -4,7 +4,7 @@ package model.dao;
 
 import java.util.HashMap;
 
-public class PlaceDao{
+public class UserDao{
 	//회원추가 
 	public void addMember(HashMap map) {
 	}

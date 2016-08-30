@@ -1,4 +1,4 @@
-package view.member;
+package view.user;
 
 import java.util.Scanner;
 

@@ -1,11 +1,10 @@
-package controller;
+package model.dao;
+
 
 
 import java.util.HashMap;
 
-public class PlaceController {
-	
-
+public class StoreDao{
 	//회원추가 
 	public void addMember(HashMap map) {
 	}
@@ -34,7 +33,9 @@ public class PlaceController {
 	//회원수
 	public void userLength(){
 	}
-			
+	
 
+	
+	
+	
 }
-

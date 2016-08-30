@@ -2,7 +2,7 @@ package controller;
 
 import java.util.HashMap;
 
-public class MemberController {
+public class UserController {
 	
 
 	//회원추가 
