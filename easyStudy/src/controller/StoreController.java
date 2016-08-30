@@ -3,36 +3,39 @@ package controller;
 
 import java.util.HashMap;
 
+import model.dto.Store;
+import model.dto.User;
+
 public class StoreController {
-	
 
-	//회원추가 
-	public void addMember(HashMap map) {
+	//상점 추가
+	public int addStore(Store store) {
+		int check= 0;
+		return check;
 	}
 	
-	//비밀번호 수정
-	public void updatePassword(HashMap map) {
-		
-	}
-		
-	//아이디 중복체크
-	public void checkId(String id) {
-	}
-
-	//로그인 아이디 패스워드 체크
-	public void checkMember(String id, String password) {
+	//상점 수정
+	public int updateStore(Store store) {
+		int check= 0;
+		return check;
 	}
 	
-	//개인회원정보 가져오기
-	public void memberInfo(String id) {
+	//전체 상점 정보 
+	public HashMap storeList(HashMap map) {
+		HashMap map1 =null;
+		return map1;
 	}
 	
-	//전체회원정보
-	public void userListCont() {
+	//개인 상점 정보
+	public User storeInfo(String storeId) {
+		User user = null;
+		return user;
 	}
 	
-	//회원수
-	public void userLength(){
+	//전체 상점 수
+	public int storeLength(){
+		int check= 0;
+		return check;
 	}
 			
 
